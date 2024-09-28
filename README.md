@@ -58,9 +58,9 @@ PDC Recycle is an e-commerce platform focused on recycled products. As the backe
 -   **Database Management**: Designed MySQL database schema, hosted on AWS RDS
 -   **Deployment**: Configured and deployed the application on AWS EC2, ensuring security best practices.
 
-**Link to API Documentation**: [PDC Recycle - Backend API Documentation](ec2-3-1-84-20.ap-southeast-1.compute.amazonaws.com/apidocs)
+**Link to API Documentation**: [PDC Recycle - Backend API Documentation](http://ec2-3-1-84-20.ap-southeast-1.compute.amazonaws.com/apidocs)
 
-**Link to ERD**: [PDC Recycle - ERD](shorturl.at/qprpS) (Please zoom in or download the file first for clearer view)
+**Link to ERD**: [PDC Recycle - ERD](https://shorturl.at/qprpS) (Please zoom in or download the file first for clearer view)
 
 <br>
 
