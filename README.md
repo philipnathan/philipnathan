@@ -10,12 +10,12 @@
 
 ## 🛠️ Technical Skill
 
--   **Programming Languages:** Python
+-   **Programming Languages:** Python, JavaScript, TypeScript
 -   **Frameworks:** Flask, learning Django
 -   **Databases:** MySQL, MongoDB
 -   **Cloud:** AWS (EC2 & RDS)
--   **Frontend:** React, Next.js, HTML, CSS, JavaScript
--   **Version Control:** Git, GitHub
+-   **Frontend:** React, Next.js, HTML, CSS
+-   **Version Control:** Git
 -   **API Integration:** Experience with various APIs in projects
 
 <br>
