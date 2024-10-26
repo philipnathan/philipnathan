@@ -27,8 +27,6 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-    <img alt="DjangoRESTFramework" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -61,55 +59,3 @@ PDC Recycle is an e-commerce platform focused on recycled products. As the backe
 **Link to API Documentation**: [PDC Recycle - Backend API Documentation](http://ec2-3-1-84-20.ap-southeast-1.compute.amazonaws.com/apidocs)
 
 **Link to ERD**: [PDC Recycle - ERD](https://shorturl.at/qprpS) (Please zoom in or download the file first for clearer view)
-
-<br>
-
-### **_Supply Chain Management Backend_** (In Progress)
-
-<p>
-    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white">
-    <img alt="DjangoRESTFramework" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">
-</p>
-
-#### **_Why This Project ?_**
-
-This project is a combination of my academic background in Industrial Engineering and my passion for backend development. It addresses complex, real-world supply chain challenges by providing an integrated solution that optimizes operations across the entire supply chain spectrum.
-
-🚧 **_In Progress_** 🚧
-
--   🔜 User Management
--   🔜 Procurement Management
--   🔜 Production Management
--   🔜 Warehouse Management
--   🔜 Finance Management
-
-#### **_Key Feature (Planned)_**:
-
-**1. User Management**:
-
--   **Role-Based Access Control (RBAC)**: Define multiple user roles
--   **Authentication**: Secure login using JWT (Implement refresh token for enhanced security)
--   **Audit Logging**: Comprehensive logging of user actions for accountability
--   **Pasword Policies**: Enforce strong password requirements
-
-**2. Warehouse Management**:
-
--   **Invetory Control**: Real-time tracking of inventory levels
--   **Pick, Pack, and Ship**: Optimize warehouse operations
--   **Bin and Location Management**: Efficiently organize warehouse space
--   **Cycle Counting (Stock Opname)**: Implement regular cycle counting for inventory accuracy
-
-**3. Production Management**:
-
--   **Production Planning and Scheduling**: Create and manage production schedules
--   **Bill of Materials (BOM)**: Maintain accurate BOMs for all products
--   **Quality Control Integrations**: Incorporate quality checks into the production process
-
-**NOTE**: Other feature will be updated in the future.
-
-## 🌱 Current Learning Focus
-
--   Deepening knowledge in Python and backend development
--   Exploring Django framework through Udemy courses
--   Future interests: Golang, Cloud Computing, and DevOps
