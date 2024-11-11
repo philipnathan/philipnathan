@@ -1,6 +1,6 @@
 # 👨‍💻 Philip Nathaniel
 
-**_I am an aspiring Backend Engineer_** currently enhancing my skills through a Full-stack Software Engineering Bootcamp at RevoU, where I have learned **_Python programming, RESTful API design, and database management with MySQL and MongoDB._** My background in Industrial Engineering has strengthened my **_analytical and strategic thinking skills_**, further enhancing my **_problem-solving abilities_**. As a Fulfillment Planner, I fulfilled demand and ensured timely deliveries to retail partners as well as distribution centers, coordinating logistics to maintain efficiency in the supply chain. This experience highlighted the importance of **_collaboration and effective communication_**. At RevoU, I contributed to developing a Minimum Viable Product (MVP) for an e-commerce platform by integrating several APIs. I am actively **_expanding my expertise in Django and PostgreSQL_** to tackle complex backend challenges. My goal is to become a skilled Backend Engineer, leveraging my technical knowledge and innovative mindset to drive organizational growth through impactful software solutions.
+**_I am an aspiring Backend Engineer_** currently enhancing my skills through a Full-stack Software Engineering Bootcamp at RevoU, where I have learned **_Python programming, RESTful API design, and database management with MySQL and MongoDB._** My background in Industrial Engineering has strengthened my **_analytical and strategic thinking skills_**, further enhancing my **_problem-solving abilities_**. As a Fulfillment Planner, I fulfilled demand and ensured timely deliveries to retail partners as well as distribution centers, coordinating logistics to maintain efficiency in the supply chain. This experience highlighted the importance of **_collaboration and effective communication_**. At RevoU, I contributed to developing a Minimum Viable Product (MVP) for an e-commerce platform by integrating several APIs. I am actively **_expanding my expertise in Go_** to tackle complex backend challenges. My goal is to become a skilled Backend Engineer, leveraging my technical knowledge and innovative mindset to drive organizational growth through impactful software solutions.
 
 <p>
     <a href="https://www.linkedin.com/in/philipnathaniel168/">
@@ -11,9 +11,8 @@
 ## 🛠️ Technical Skill
 
 -   **Programming Languages:** Python, JavaScript, TypeScript
--   **Frameworks:** Flask, learning Django
+-   **Frameworks:** Flask,
 -   **Databases:** MySQL, MongoDB
--   **Cloud:** AWS (EC2 & RDS)
 -   **Frontend:** React, Next.js, HTML, CSS
 -   **Version Control:** Git
 -   **API Integration:** Experience with various APIs in projects
