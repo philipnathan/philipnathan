@@ -2,7 +2,7 @@
 
 **Backend engineer in Denpasar, Bali (UTC+8)** — Go, Fiber, PostgreSQL.
 
-Nearly two years building backend services for a SaaS platform for cooperatives, from API and database design through release.
+Nearly two years building backend services for a SaaS platform for cooperatives, from API and database design through implementation and QA.
 
 <p>
     <a href="https://www.linkedin.com/in/philipnathaniel168/">
@@ -15,10 +15,10 @@ Nearly two years building backend services for a SaaS platform for cooperatives,
 
 ## 💼 What I Do
 
-**Software Engineer at Djoin** (since April 2025) — sole backend engineer on the product, owning sprint backend work in Go (Fiber) and PostgreSQL from requirements through release, with guidance from the tech lead when needed.
+**Software Engineer at Djoin** (since April 2025) — sole backend engineer on the product, owning sprint backend work in Go (Fiber) and PostgreSQL from technical plan through QA sign-off, with guidance from the tech lead when needed.
 
 - RESTful APIs and PostgreSQL data models across **6 microservices**, including schema design and service-to-service integration
-- Technical plans and API documentation written before implementation; production bugs triaged and fixed end to end
+- Technical plans and API documentation written before implementation; production bugs triaged and fixed
 - Third-party integrations delivered as clean JSON APIs
 - n8n workflows that automate financial analysis
 
