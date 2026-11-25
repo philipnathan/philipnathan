@@ -15,7 +15,7 @@ Nearly two years building backend services for a SaaS platform for cooperatives,
 
 ## 💼 What I Do
 
-**Software Engineer at Djoin** (since April 2025) — sole backend engineer on the product, owning sprint backend work in Go (Fiber) and PostgreSQL from technical plan through QA sign-off, with guidance from the tech lead when needed.
+**Software Engineer at Djoin** (since April 2025) — sole dedicated backend engineer on the product, owning backend work each sprint in Go (Fiber) and PostgreSQL from technical plan through QA sign-off, with guidance from the tech lead when needed.
 
 - RESTful APIs and PostgreSQL data models across **6 microservices**, including schema design and service-to-service integration
 - Technical plans and API documentation written before implementation; production bugs triaged and fixed
