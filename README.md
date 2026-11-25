@@ -26,17 +26,15 @@ Before that: automated a government vehicle-tax verification portal — scripted
 
 ## 🧩 Selected Work
 
-**Bank Statement Converter** — for accountants · *public release in progress*
-
-A desktop tool that turns bank statement PDFs from **8 Indonesian banks** (BCA, BNI, Mandiri, CIMB, Permata, Mega, Octobiz, JTrust) plus BPJS into clean Excel/JSON, so bookkeeping stops starting with manual copy-paste. Handles text-based PDFs and falls back to OCR for scanned statements.
-
-`Python` · `pdfplumber` · `PyMuPDF` · `pandas` · `Tkinter` · `PyInstaller` · CI on GitHub Actions
-
 **Devata Smile Studio** — [devatasmilestudio.com](https://devatasmilestudio.com)
 
 Bilingual EN/ID site for a dental clinic in Bali: Next.js App Router, `next-intl`, static export on Cloudflare Pages, structured data and sitemap for SEO. I set the direction and reviewed the result; the code was mostly AI-generated, and I verified each page and the deploy by hand. This is the project that taught me the frontend — backend is still where I'm strongest.
 
-*Djoin product code is private, but I'm happy to walk through the design decisions.*
+**Bank Statement Converter** — for accountants · *public release in progress*
+
+A desktop tool that turns bank statement PDFs from **8 Indonesian banks** (BCA, BNI, Mandiri, CIMB, Permata, Mega, Octobiz, JTrust) plus BPJS into a clean Excel workbook, so bookkeeping stops starting with manual copy-paste. Handles text-based PDFs and falls back to OCR for scanned statements.
+
+`Python` · `pdfplumber` · `PyMuPDF` · `pandas` · `Tkinter` · `PyInstaller` · CI on GitHub Actions
 
 ## 🛠️ Tech
 
