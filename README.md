@@ -21,6 +21,12 @@ At **Djoin**, I work as a backend engineer, building and maintaining backend fea
 
 I always align on the approach with my lead before building, and I prefer simple, maintainable solutions over clever ones.
 
+## 🌱 Beyond Backend
+
+I'm still learning frontend, but I've shipped one real Next.js project:
+
+**[Devata Smile Studio](https://devatasmilestudio.com)** — a bilingual (EN/ID) website for a dental clinic in Bali, built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, and **next-intl**. Exported as a static site and deployed on **Cloudflare Pages**, with per-page metadata, JSON-LD structured data, and a sitemap for SEO. The code was largely AI-generated; I set the direction, reviewed the output, and verified each page and the deploy manually before it went live.
+
 ## 🛠️ Tech Stack
 
 **Daily drivers**
@@ -38,6 +44,8 @@ I always align on the approach with my lead before building, and I prefer simple
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 **Learned during bootcamp:** Docker, AWS (EC2, RDS, S3), Nginx
